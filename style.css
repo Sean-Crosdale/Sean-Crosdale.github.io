@@ -1,0 +1,19 @@
+.underline{
+    text-decoration: underline;
+}
+
+.background-color{
+    background-color: orange;
+}
+
+.color{
+    color: red;
+}
+.description{
+    width:250px;
+}
+
+img{
+    width: 250px;
+    height:auto;
+}
